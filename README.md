@@ -38,10 +38,16 @@
 
 ###
 
+<p align="center">Porfile views</p>
+
+###
+
 <img align="left" height="0" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
-<img src="https://raw.githubusercontent.com/Viraj-Kelum/Viraj-Kelum/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Viraj-Kelum/count.svg?"  />
+</div>
 
 ###
